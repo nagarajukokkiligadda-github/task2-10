@@ -1,0 +1,15 @@
+@media (max-width: 700px) {
+    .container {
+      padding: 10px;
+    }
+  }
+  
+  @media (min-width: 701px) {
+    .container {
+      padding: 30px;
+    }
+  }
+ .container{
+    background-color: lightblue;
+
+ }
